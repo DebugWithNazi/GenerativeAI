@@ -16,16 +16,9 @@
 
 ---
 
-## 📦 Tech Stack
+## 📦 DeploymentAt
 
-- [Python](https://www.python.org/)
-- [Streamlit](https://streamlit.io/)
-- [Groq LLaMA 3 API](https://console.groq.com/)
-- [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [JSON](https://www.json.org/)
-
----
-
+- [Streamlit](https://huggingface.co/spaces/Naz786/CodeOptimizer)
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
