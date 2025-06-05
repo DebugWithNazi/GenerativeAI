@@ -17,15 +17,8 @@ app.py: Main application file containing the Streamlit app code.
 
 requirements.txt: Lists all Python dependencies required to run the app.
 
-📦 Installation
-To run the application locally:
-Clone the Repository:
-
-git clone https://huggingface.co/spaces/Naz786/UniTimeBot
-cd UniTimeBot
-Install Dependencies:
-
-Ensure you have Python 3.7 or higher installed.
+📦 Deployed At
+https://huggingface.co/spaces/Naz786/UniTimeBot
 
 pip install -r requirements.txt
 Run the Application:
