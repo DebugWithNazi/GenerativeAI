@@ -36,18 +36,6 @@ The following environment variables need to be set in your `.env` file:
 - `GROQ_API_KEY`: Your Groq API key for AI model access
 - `AIRVISUAL_API_KEY`: Your AirVisual API key for air quality data
 
-## Security Notes
-
-- Never commit your `.env` file to version control
-- Keep your API keys secure and rotate them periodically
-- Use environment variables for all sensitive information
-
 ## Deployment on Hugging Face
+https://huggingface.co/spaces/Naz786/AI-Climate-and-Farming-Assistance-App
 
-1. Create a new Space on Hugging Face
-2. Set up your environment variables in the Space settings
-3. Deploy your application using the Hugging Face CLI or web interface
-
-## License
-
-MIT License 
